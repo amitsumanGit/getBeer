@@ -1,0 +1,2 @@
+# getBeer
+Simple angular application
